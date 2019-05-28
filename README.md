@@ -1,5 +1,6 @@
 # IEEE Robotics Club Competition
 •	Implemented PID control for a two-wheel differential drive robot, with feedback data collected from optical encoders
+
 •	Coordinated with path planning team to calculate real-time optimal setpoint sequences using spline interpolation technique
 
 File Description:
